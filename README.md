@@ -1,5 +1,5 @@
 ### Hi there 👋
-About me:
+I'm Igor - pythoneer
 - ⚡ Current position - CTO Zenner GMBH in St. Petersburg.
 - 😄 I am fond of Python, I use it to implement projects at work, and as a hobby in home projects with arduino and raspberry Pi.
 - 🔭 I’m currently working on <a href="https://github.com/pychik/lightning_py"> python Selenoid adapter library</a>
