@@ -1,7 +1,7 @@
 ### Hi there 👋
 About me:
 - ⚡ Current position of Technical Director of Zenner GMBH in St. Petersburg.
-- 😄I am fond of Python, I use it to implement projects at work, and as a hobby in home projects with arduino and raspberry Pi.
+- 😄 I am fond of Python, I use it to implement projects at work, and as a hobby in home projects with arduino and raspberry Pi.
 - 🌱 I consider Golang for home study as a fast and convenient second language for projects where classical python is not enough
 - 🔭 I’m currently working on <a href="https://github.com/pychik/lightning_py"> python Selenoid adapter library</a>
 - 🌱 I’m currently learning <a href="https://practicum.yandex.ru/middle-python/"> yandex practicum middle python backend</a>
