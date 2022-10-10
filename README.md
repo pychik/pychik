@@ -6,6 +6,10 @@ I'm Igor - pythoneer
 - 🌱 I’m currently learning <a href="https://practicum.yandex.ru/middle-python/"> yandex practicum middle python backend</a>. 
 Also Considering Golang for home study as a fast and convenient second language for projects where classical python is not enough
 - 📫 How to reach me: <a href="https://t.me/t_chik">@t_chik</a>
+
+CV
+-https://github.com/pychik/cv
+
 <!--
 **pychik/pychik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
