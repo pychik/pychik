@@ -1,9 +1,9 @@
 ### Hi there 👋
 I'm Igor - pythoneer
-- ⚡ Current position - CTO Zenner GMBH in St. Petersburg.
+- ⚡ Current position - technical consultant Zenner GMBH in St. Petersburg.
 - 😄 I am fond of Python, I use it to implement projects at work, and as a hobby in home projects with arduino and raspberry Pi.
 - 🔭 I’m currently working on <a href="https://github.com/pychik/lightning_py"> python Selenoid adapter library</a>
-- 🌱 Also Considering Golang for home study as a fast and convenient second language for projects where classical python is not enough
+- 🌱 Also Considering Go for home study as a fast and convenient second language for projects where classical python is not enough
 - 📫 How to reach me: <a href="https://t.me/t_chik">@t_chik</a>
 
 CV
